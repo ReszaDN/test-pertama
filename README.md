@@ -63,3 +63,26 @@ Run Aplication on port 8000
 php artisan serve
 ```
 
+
+## Login User
+
+
+```bash
+#Login Dokter:
+username : dokter
+password : dokter
+
+#Login Pendaftaran:
+username : pendaftaran
+password : pendaftaran
+
+#Login Perawat:
+username : perawat
+password : perawat
+
+#Login Apoteker:
+username : apoteker
+password : apoteker
+
+```
+
